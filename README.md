@@ -6,8 +6,8 @@ Passionate about clean code, performance, and scalable architecture.
 
 ### 📫 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Equil1brium-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourUsername)  
-[![Email](https://img.shields.io/badge/Email-danpain779@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@Equil1brium-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Equil1brium)  
+[![Email](https://img.shields.io/badge/Email-danpain779@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danpain779@gmail.com)  
 
 ---
 
