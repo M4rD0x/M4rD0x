@@ -25,11 +25,23 @@ Passionate about clean code, performance, and scalable architecture.
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-0C7DC2?style=for-the-badge&logo=lighthouse&logoColor=white)]()
 
-## Hackathon Achievement
 
-Participated in an intensive 8-hour hackathon focused on rapid product development and creative problem solving. Collaborated with a team to build an interactive project using Three.js, combining real-time 3D graphics and web technologies under tight deadlines.
+## 3D Chess Hackathon Project
 
-Project -> Chess 3D
+Developed during an intensive 8-hour hackathon using Three.js and modern frontend technologies.
+
+Contributed to frontend architecture, UI integration, and interactive 3D environment implementation as part of a collaborative development team.
+
+Achievements:
+- 3rd place in the hackathon
+- Real-time collaborative development under strict deadlines
+- Interactive 3D web experience built with Three.js
+
+Tech stack:
+- Three.js
+- JavaScript
+- HTML/CSS
+- Frontend Web Development
 
 Our team achieved **3rd place** in the competition.
 
