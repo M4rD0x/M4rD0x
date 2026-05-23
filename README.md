@@ -28,32 +28,31 @@ Passionate about clean code, performance, and scalable architecture.
 
 ## 3D Chess Hackathon Project
 
-Developed during an intensive 8-hour hackathon using Three.js and modern frontend technologies.
+Participated in an intensive 8-hour hackathon focused on rapid product development and collaborative engineering.
 
-Contributed to frontend architecture, UI integration, and interactive 3D environment implementation as part of a collaborative development team.
-
-Achievements:
-- 3rd place in the hackathon
-- Real-time collaborative development under strict deadlines
-- Interactive 3D web experience built with Three.js
-
-Tech stack:
-- Three.js
-- JavaScript
-- HTML/CSS
-- Frontend Web Development
+Worked on a Three.js-based interactive 3D chess project, contributing across both frontend and backend integration layers. 
+Took ownership of connecting frontend systems with backend functionality during the development process to ensure stable interaction between application components under strict time constraints.
 
 Our team achieved **3rd place** in the competition.
 
-Project highlights:
+Key contributions:
 
-* Three.js-based interactive experience
-* Real-time collaboration under time constraints
-* Fast prototyping and problem-solving
-* Frontend & creative web development workflow
+* Three.js interactive 3D implementation
+* Frontend and backend integration
+* Rapid debugging and feature delivery
+* Real-time collaborative development workflow
+* Fast adaptation in high-pressure environment
+
+Tech stack:
+
+* Three.js
+* JavaScript
+* Frontend Web Development
+* Backend Integration
+* HTML/CSS
+
+Repository:
+https://github.com/Rosario-22/Hackaton-2026-Ajedrez3D
 
 Hackathon post:
 https://www.instagram.com/hackatonclubdeprogramacion/p/DXpi5YRjz2y/
-
-Project repo:
-https://github.com/Rosario-22/Hackaton-2026-Ajedrez3D.git
