@@ -42,3 +42,6 @@ Project highlights:
 
 Hackathon post:
 https://www.instagram.com/hackatonclubdeprogramacion/p/DXpi5YRjz2y/
+
+Project repo:
+https://github.com/Rosario-22/Hackaton-2026-Ajedrez3D.git
