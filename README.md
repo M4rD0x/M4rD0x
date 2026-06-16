@@ -49,7 +49,7 @@ Tech stack:
 * JavaScript
 * Frontend Web Development
 * Backend Integration
-* HTML/CSS
+* React
 
 Repository:
 https://github.com/Rosario-22/Hackaton-2026-Ajedrez3D
